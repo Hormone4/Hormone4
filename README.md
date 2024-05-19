@@ -7,5 +7,5 @@
 - ⭐⭐⭐⭐ C, HTML/CSS/JavaScript, MATLAB, SQL
 
 ### Studies
-- Engineering school of digital technologies [EFREI Paris](https://eng.efrei.fr/)
+- Currently in the engineering school of digital technologies [EFREI Paris](https://eng.efrei.fr/)
 - Passionate about CyberSecurity
