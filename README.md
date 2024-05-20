@@ -3,8 +3,8 @@
 - Ranked 3.4/5 in the [PyWeek 36](https://pyweek.org/36/) Python gamejam
 
 ### Languages
-- Favorite: Java, Python
-- Fluent: C, HTML/CSS/JavaScript, MATLAB, SQL
+- ⭐️⭐️⭐️⭐️⭐️ Java, Python
+- ⭐️⭐️⭐️⭐️ C, HTML/CSS/JavaScript, MATLAB, SQL
 
 ### Studies
 - Currently in the engineering school of digital technologies [EFREI Paris](https://eng.efrei.fr/)
